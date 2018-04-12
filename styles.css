@@ -1,0 +1,13 @@
+h2{
+  color: Blue;
+  text-align: justify;
+}
+div{
+  background-color: teal;
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+}
+.special{
+  color: Red;
+}
